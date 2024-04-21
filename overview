@@ -1,0 +1,56 @@
+1)What is software? What is software engineering? 
+
+Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+It's the stuff that makes your computer or phone do things. Like apps, games, or even the system that runs your device.
+
+Software engineering is the process of developing, testing and deploying computer applications to solve real-world problems.It's all about making sure it works well, doesn't have any bugs, and does what it's supposed to do. Engineers follow specific steps and rules to make sure the software is good quality, gets done on time, and doesn't cost too much. They also test it a lot to make sure it works correctly.
+
+
+2)Explain types of software?
+
+There are five type of software .which are
+-Application software
+-System software
+-Driver software
+-Middleware software
+-Programming Software
+
+Application software:These are the programs you use every day, like web browsers, word processors, games, and social media apps. They help you do specific tasks or have fun. E.g. Microsoft
+
+System software: this software manages and controls the computer hardware so that application software can function correctly. Examples include: Microsoft Windows , Linux , macOS 
+
+Driver Software: These are programs that allow the operating system to communicate with hardware devices. Examples include: USB , headphone
+
+Middleware Software: This software acts as a bridge between different applications or systems, enabling them to communicate and work together. Examples include: VMware
+ Programming Software: This software is used by developers to write, test, and debug other software programs. Examples include:Turbo c , vs code 
+
+3)What is SDLC ? Explain each phase of SDLC.
+
+SDLC stands for Software Development Life Cycle. It's a structured process used by software development teams to create and maintain high-quality software. The SDLC consists of several phases, each with its own set of activities and goals. Here's an explanation of each phase:
+-Planning -Analysis
+-Design
+-Implementation -Testing & integration
+-Maintanance  
+
+1. Planning: In this phase, the project scope, objectives, timeline, and resources are defined. Key stakeholders discuss the project requirements and create a roadmap for the development process. The main goal is to establish a clear understanding of what needs to be done and how it will be accomplished.
+2. Analysis: During this phase, the project requirements are analyzed in detail. This involves gathering information from stakeholders, understanding their needs, and defining the features and functionalities of the software. The goal is to create a comprehensive and accurate specification document that will guide the development process.
+3. Design: In this phase, the software architecture and design are created based on the requirements gathered in the analysis phase. This includes defining the system architecture, data models, user interfaces, and software components. The goal is to create a blueprint for the software that will guide the development team in building the final product.
+4. Implementation : This is where the actual coding of the software takes place. Developers write code according to the design specifications created in the previous phase. The implementation phase also involves integrating different components, testing individual modules, and ensuring that the software meets the specified requirements.
+5. Testing: In this phase, the software is thoroughly tested to identify and fix any defects or bugs. Different types of testing are performed, including unit testing (testing individual components), integration testing (testing how components work together), and system testing (testing the entire system). The goal is to ensure that the software is reliable, functional, and meets the quality standards.
+6. Deployment: Once the software has been tested and approved, it is deployed to the production environment. This involves installing the software on users' computers or servers and making it available for use. The deployment phase also includes providing training and support to users and ensuring a smooth transition to the new software.
+7. Maintenance: After the software has been deployed, it enters the maintenance phase. During this phase, the software is monitored, updated, and enhanced as needed to address issues, add new features, or adapt to changes in the environment. The goal is to ensure that the software remains effective and continues to meet the needs of users over time.
+
+4)What is DFD? Create a DFD diagram on Flipkart 
+DFD stands for Data Flow Diagram. It's a graphical representation that shows how data flows through a system. In a DFD, processes, data stores, and data flows are represented by different symbols, and arrows indicate the flow of data between them.
+
+
+
+5)What is Flowchart? Create a flow chart to make addition of two numbers .
+
+A flowchart is a visual representation of a process or algorithm, using different shapes to represent different steps or actions, with arrows indicating the flow of control or data between them. It's commonly used to illustrate the steps in a procedure, making it easier to understand and follow.
+
+6)What is Use case Diagram? Create a use-case on bill payment on paytm. 
+ 
+A use case diagram is a visual representation that shows the interactions between users (actors) and a system, illustrating the various ways users can interact with the system to achieve specific goals or tasks. It's commonly used in software engineering to define the functional requirements of a system from a user's perspective.
+
+
